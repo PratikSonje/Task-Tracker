@@ -2,7 +2,7 @@
 
 A modern, full-stack Task Tracker application built with MongoDB, Express, React, and Node.js. 
 
-This repository was strictly developed following the `internship_handbook.md` rules, ensuring top-tier security, DRY code, proper state management, accessible UI, and a feature-based folder architecture.
+This repository is built with a focus on top-tier security, DRY code, proper state management, accessible UI, and a strict feature-based folder architecture.
 
 ## Features
 - **Frontend**: React, Vite, Tailwind CSS, shadcn/ui, Zod validation, React Hook Form, Framer Motion.
